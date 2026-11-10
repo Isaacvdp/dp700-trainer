@@ -10,10 +10,6 @@ A static study tool for Microsoft exam DP-700 (Implementing Data Engineering Sol
 
 No questions are taken from exam dumps. Everything is written from the public skills outline and the Fabric documentation.
 
-## Run
-
-Open `index.html` in a browser, or serve the folder with any static server. GitHub Pages serves it as is.
-
 ## Adding questions
 
 Questions live in `data/d1.js`, `data/d2.js`, `data/d3.js` (one file per domain), with case studies in `data/cases.js`. Each question has:
